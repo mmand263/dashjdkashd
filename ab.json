@@ -15,10 +15,10 @@
             "#6460af"
         ],
         "TEXT_NORMAL": [
-            "#e0deff"
+            "#161619"
         ],
         "TEXT_MUTED": [
-            "#c1c0df"
+            "#9a99b2"
         ],
         "INTERACTIVE_NORMAL": [
             "#6460af"
@@ -147,7 +147,7 @@
         
  },
     "background": {
-        "blur": 0.8,
+        "blur": 0.2,
         "url": "https://cdn.discordapp.com/attachments/1156891275203723304/1388694084985688144/M7TsQIp_-_Imgur.jpg?ex=6861e9a6&is=68609826&hm=ba2f7d4a175f9c198a7291e984041d00cecbf76cbdbd3cac3b628629f133321e&"
     },
   "plus": {
